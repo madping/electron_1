@@ -10,6 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "electron": "^11.2.3",
-    "electron-localshortcut": "^3.2.1"
+    "electron-localshortcut": "^3.2.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "serialport": "^9.0.6"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^2.3.5"
   }
 }
